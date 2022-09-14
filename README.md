@@ -9,14 +9,16 @@
 </br>
 
 > Probably nothing.
+> 
+* [LearnML](https://gitbook.gitbook.io/learn-markdown/) - Gitbook - Learn Markdown.
 
 
-
-https://github.com/vinta/awesome-python#readme 
-
-https://github.com/krzjoa/awesome-python-data-science#readme
-
-
+- https://github.com/vinta/awesome-python
+- https://github.com/krzjoa/awesome-python-data-science
+- https://github.com/ChristosChristofidis/awesome-deep-learning
+- https://github.com/josephmisiti/awesome-machine-learning
+- https://github.com/bharathgs/Awesome-pytorch-list
+- 
 
 https://huggingface.co/
 
