@@ -22,7 +22,7 @@
 - 
 
 https://huggingface.co/
-
+https://www.urania.ai/top-sd-artists
 
 ## Video
 
