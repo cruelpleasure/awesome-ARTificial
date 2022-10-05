@@ -1,3 +1,4 @@
+![AI_Notion_Header_01](https://user-images.githubusercontent.com/88795005/194165620-4a80749c-70d2-43bf-b038-5677e3a0188f.png)
 
 <h1 align="center">
 	ARTificial Intelligence Tools for visual Artists and Designer.
