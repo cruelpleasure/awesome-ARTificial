@@ -1,7 +1,7 @@
 ![AI_Notion_Header_01](https://user-images.githubusercontent.com/88795005/194165620-4a80749c-70d2-43bf-b038-5677e3a0188f.png)
 
 <h1 align="center">
-	ARTificial Intelligence Tools for visual Artists and Designer.
+	ARTificial Tools, Links, Apps, Notebooks and more - for visual Artists and Beginner.
 </h1>
 <div align="center"><a href="https://github.com/sindresorhus/awesome">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" border="0">
