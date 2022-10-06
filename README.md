@@ -25,8 +25,10 @@
 ### SD Colab Notebooks
 * [xxx](https://xxx.com/) - xxx
 
-### SD Gibhub Repo's (Local Install + Webui)
+### SD Github Repo's (Local Install + Webui's)
 * [FILM](https://github.com/google-research/frame-interpolation) - FILM - Interpolation/Video ***
+* [Deforum 0.5](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb) - Deforum Colab! [Discord](https://discord.com/invite/upmXXsrwZc)
+
 
 ### SD Artists
 * [urania.ai](https://www.urania.ai/top-sd-artists) - Top SD Artists List
