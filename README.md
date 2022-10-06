@@ -13,6 +13,8 @@
 
 ### Contents
 * [Stable-Diffusion](#stable-diffusion)
+* [Midjourney](#midjourney)
+* [Other txt2img Tools](#other-txt2img)
 * [Prompt Engineering](#prompt-engineering)
 * [Art](#art)
 * [Models & Training](#model-training)
@@ -46,6 +48,10 @@
 * [krea.ai](https://www.krea.ai/) - create better prompts.
 * [lexica.art](https://lexica.art/) - The Stable Diffusion search engine.
 * [libraire.ai](https://libraire.ai/) - The largest library of AI-generated images.
+
+# Midjourney
+
+# Other txt2img Tools
 
 # Prompt Engineering
 
