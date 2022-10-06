@@ -78,6 +78,8 @@
 ### Markdown
 * [LearnML](https://gitbook.gitbook.io/learn-markdown/) - Gitbook - Learn Markdown.
 * [VS Code ML](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents) - VS Code ML Plugin. [Doc](https://code.visualstudio.com/docs/languages/markdown)
+* [github ML](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Writing and formatting on github.
+* [emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) - emoji's on github.
 
 ### Awesome-Tools
 * https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md
