@@ -22,7 +22,7 @@
 - 
 
 https://huggingface.co/
-https://www.urania.ai/top-sd-artists
+
 
 ## Video
 
@@ -35,20 +35,17 @@ https://www.urania.ai/top-sd-artists
 
 ## Stable-Diffusion
 
-### SD Models
-* [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models
-
 ### SD Colab Notebooks
 * [xxx](https://xxx.com/) - xxx
 
-### SD Gibhub Repo's (Local Install)
+### SD Gibhub Repo's (Local Install + Webui)
 * [FILM](https://github.com/google-research/frame-interpolation) - FILM - Interpolation/Video ***
 
-### SD Gibhub Repo's (Local Install WEBUI)
-* [xxx](https://xxx.com/) - xxx
+### SD Artists
+* [urania.ai](https://www.urania.ai/top-sd-artists) - Top SD Artists List
 
-### SD Guides
-* [xxx](https://xxx.com/) - xxx
+### SD Models
+* [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models
 
 
 ## Machine Learning
