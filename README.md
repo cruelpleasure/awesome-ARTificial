@@ -26,23 +26,31 @@ https://www.urania.ai/top-sd-artists
 
 ## Video
 
-https://github.com/google-research/frame-interpolation
-Stable Diffusion Models
+
 
 ## Contents
 * [Stable-Diffusion](#stable-diffusion)
-* [Machine Learning](#machine-learning)
 * [Prompt Engineering](#feature-engineering)
 * [Models](#model-explanation)
-* [Natural Language Processing](#natural-language-processing)
+* [Machine Learning](#machine-learning)
 
 
 ## Stable-Diffusion
 
-### Stable-Diffusion Models
+### SD Models
 * [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models
 
-### Automated Machine Learning
+### SD Colab Notebooks
+* [xxx](https://github.com/) - xxx
+
+### SD Gibhub Repo's (Local Install)
+* [xxx](https://github.com/) - xxx
+* [FILM](https://github.com/](https://github.com/google-research/frame-interpolation) - FILM - Interpolation ***
+
+### SD Gibhub Repo's (Local Install WEBUI)
+* [xxx](https://github.com/) - xxx
+
+### SD Guides
 * [xxx](https://github.com/) - xxx
 
 
