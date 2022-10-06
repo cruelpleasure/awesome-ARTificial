@@ -26,8 +26,6 @@ https://www.urania.ai/top-sd-artists
 
 ## Video
 
-
-
 ## Contents
 * [Stable-Diffusion](#stable-diffusion)
 * [Prompt Engineering](#feature-engineering)
@@ -41,17 +39,16 @@ https://www.urania.ai/top-sd-artists
 * [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models
 
 ### SD Colab Notebooks
-* [xxx](https://github.com/) - xxx
+* [xxx](https://xxx.com/) - xxx
 
 ### SD Gibhub Repo's (Local Install)
-* [xxx](https://github.com/) - xxx
-* [FILM](https://github.com/](https://github.com/google-research/frame-interpolation) - FILM - Interpolation ***
+* [FILM](https://github.com/google-research/frame-interpolation) - FILM - Interpolation/Video ***
 
 ### SD Gibhub Repo's (Local Install WEBUI)
-* [xxx](https://github.com/) - xxx
+* [xxx](https://xxx.com/) - xxx
 
 ### SD Guides
-* [xxx](https://github.com/) - xxx
+* [xxx](https://xxx.com/) - xxx
 
 
 ## Machine Learning
