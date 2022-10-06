@@ -23,11 +23,10 @@
 # Stable-Diffusion
 
 ### SD Colab Notebooks
-* [xxx](https://xxx.com/) - xxx
+* [Deforum 0.5](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb) - Deforum Colab! [Discord](https://discord.com/invite/upmXXsrwZc)
 
 ### SD Github Repo's (Local Install + Webui's)
 * [FILM](https://github.com/google-research/frame-interpolation) - FILM - Interpolation/Video ***
-* [Deforum 0.5](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb) - Deforum Colab! [Discord](https://discord.com/invite/upmXXsrwZc)
 
 
 ### SD Artists
@@ -46,7 +45,7 @@
 * [lexica.art](https://lexica.art/) - The Stable Diffusion search engine.
 * [libraire.ai](https://libraire.ai/) - The largest library of AI-generated images.
 
-
+## Art
 
 ## Machine Learning
 
@@ -62,6 +61,11 @@
 
 
 #### For ME / The List Tools
+
+### Markdown
 * [LearnML](https://gitbook.gitbook.io/learn-markdown/) - Gitbook - Learn Markdown.
+* https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents
+
+### Awesome-Tools
 * https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md
-* 
+* https://github.com/sindresorhus/awesome/blob/main/create-list.md
