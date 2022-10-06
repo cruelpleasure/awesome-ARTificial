@@ -27,13 +27,24 @@ https://www.urania.ai/top-sd-artists
 ## Video
 
 https://github.com/google-research/frame-interpolation
-
+Stable Diffusion Models
 
 ## Contents
+* [Stable-Diffusion](#stable-diffusion)
 * [Machine Learning](#machine-learning)
 * [Prompt Engineering](#feature-engineering)
 * [Models](#model-explanation)
 * [Natural Language Processing](#natural-language-processing)
+
+
+## Stable-Diffusion
+
+### Stable-Diffusion Models
+* [Stable Diffusion Models](https://rentry.org/sdmodels) - Machine learning in Python. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+
+
+### Automated Machine Learning
+* [TPOT](https://github.com/rhiever/tpot) - Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming
 
 ## Machine Learning
 
