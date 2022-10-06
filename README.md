@@ -20,7 +20,7 @@
 * [Coding](#coding)
 
 
-## Stable-Diffusion
+# Stable-Diffusion
 
 ### SD Colab Notebooks
 * [xxx](https://xxx.com/) - xxx
@@ -48,22 +48,11 @@
 
 
 
-
 ## Machine Learning
-
-### General Purpouse Machine Learning
-* [scikit-learn](http://scikit-learn.org/stable/) - Machine learning in Python. <img height="20" src="img/sklearn_big.png" alt="sklearn">
-* [Shogun](http://www.shogun-toolbox.org/) - Machine learning toolbox.
-* [xLearn](https://github.com/aksnzhy/xlearn) - High Performance, Easy-to-use, and Scalable Machine Learning Package.
-
-### Automated Machine Learning
-* [TPOT](https://github.com/rhiever/tpot) - Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. <img height="20" src="img/sklearn_big.png" alt="sklearn">
-* [auto-sklearn](https://github.com/automl/auto-sklearn) - An automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator. <img height="20" src="img/sklearn_big.png" alt="sklearn">
-* [MLBox](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
 
 ## Coding
 
-### Awesome ///CODING.py
+## Awesome-Lists
 
 - https://github.com/vinta/awesome-python
 - https://github.com/krzjoa/awesome-python-data-science
@@ -72,5 +61,7 @@
 - https://github.com/bharathgs/Awesome-pytorch-list
 
 
-#### For me
+#### For ME / The List Tools
 * [LearnML](https://gitbook.gitbook.io/learn-markdown/) - Gitbook - Learn Markdown.
+* https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md
+* 
