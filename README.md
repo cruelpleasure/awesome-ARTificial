@@ -19,12 +19,7 @@
 - https://github.com/ChristosChristofidis/awesome-deep-learning
 - https://github.com/josephmisiti/awesome-machine-learning
 - https://github.com/bharathgs/Awesome-pytorch-list
-- 
 
-https://huggingface.co/
-
-
-## Video
 
 ## Contents
 * [Stable-Diffusion](#stable-diffusion)
@@ -46,6 +41,9 @@ https://huggingface.co/
 
 ### SD Models
 * [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models
+
+### Useful Tools and Apps
+* [Huggingface.co](https://huggingface.co/) - lorem ipsum
 
 
 ## Machine Learning
