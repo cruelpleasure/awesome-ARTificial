@@ -30,14 +30,15 @@
 * [Deforum 0.5](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb) - Deforum Colab! [Discord](https://discord.com/invite/upmXXsrwZc)
 
 ### SD Github Repo's (Local Install + Webui's)
-* [FILM](https://github.com/google-research/frame-interpolation) - FILM - Interpolation/Video ***
+* [AUTOMATIC1111 Webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Nice SD Webui with a lot functions.
+* [FILM](https://github.com/google-research/frame-interpolation) - FILM - Interpolation/Video.
 
 
 ### SD Artists
-* [urania.ai](https://www.urania.ai/top-sd-artists) - Top SD Artists List
+* [urania.ai](https://www.urania.ai/top-sd-artists) - Top SD Artists List.
 
 ### SD Models
-* [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models
+* [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models.
 
 ### Useful Tools and Apps
 * [Huggingface.co](https://huggingface.co/) - The AI community building the future.
