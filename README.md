@@ -11,13 +11,15 @@
 
 > Probably nothing.
 
-
-## Contents
+### Contents
 * [Stable-Diffusion](#stable-diffusion)
-* [Prompt Engineering](#feature-engineering)
-* [Models](#model-explanation)
+* [Prompt Engineering](#prompt-engineering)
+* [Art](#art)
+* [Models & Training](#model-training)
 * [Machine Learning](#machine-learning)
 * [Coding](#coding)
+
+
 
 
 # Stable-Diffusion
@@ -45,11 +47,15 @@
 * [lexica.art](https://lexica.art/) - The Stable Diffusion search engine.
 * [libraire.ai](https://libraire.ai/) - The largest library of AI-generated images.
 
-## Art
+# Prompt Engineering
 
-## Machine Learning
+# Art
 
-## Coding
+# Models & Training
+
+# Machine Learning
+
+# Coding
 
 ## Awesome-Lists
 
