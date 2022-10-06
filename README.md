@@ -12,18 +12,12 @@
 > Probably nothing.
 
 
-- https://github.com/vinta/awesome-python
-- https://github.com/krzjoa/awesome-python-data-science
-- https://github.com/ChristosChristofidis/awesome-deep-learning
-- https://github.com/josephmisiti/awesome-machine-learning
-- https://github.com/bharathgs/Awesome-pytorch-list
-
-
 ## Contents
 * [Stable-Diffusion](#stable-diffusion)
 * [Prompt Engineering](#feature-engineering)
 * [Models](#model-explanation)
 * [Machine Learning](#machine-learning)
+* [Coding](#coding)
 
 
 ## Stable-Diffusion
@@ -56,6 +50,16 @@
 * [auto-sklearn](https://github.com/automl/auto-sklearn) - An automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [MLBox](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
 
+## Coding
 
-## For me
+### Awesome ///CODING.py
+
+- https://github.com/vinta/awesome-python
+- https://github.com/krzjoa/awesome-python-data-science
+- https://github.com/ChristosChristofidis/awesome-deep-learning
+- https://github.com/josephmisiti/awesome-machine-learning
+- https://github.com/bharathgs/Awesome-pytorch-list
+
+
+#### For me
 * [LearnML](https://gitbook.gitbook.io/learn-markdown/) - Gitbook - Learn Markdown.
