@@ -81,3 +81,4 @@
 ### Awesome-Tools
 * https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md
 * https://github.com/sindresorhus/awesome/blob/main/create-list.md
+* https://github.com/sindresorhus/awesome-lint
