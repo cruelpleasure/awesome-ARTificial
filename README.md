@@ -40,11 +40,11 @@ Stable Diffusion Models
 ## Stable-Diffusion
 
 ### Stable-Diffusion Models
-* [Stable Diffusion Models](https://rentry.org/sdmodels) - Machine learning in Python. <img height="20" src="img/sklearn_big.png" alt="sklearn">
-
+* [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models
 
 ### Automated Machine Learning
-* [TPOT](https://github.com/rhiever/tpot) - Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming
+* [xxx](https://github.com/) - xxx
+
 
 ## Machine Learning
 
