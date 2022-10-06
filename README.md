@@ -35,7 +35,16 @@
 * [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models
 
 ### Useful Tools and Apps
-* [Huggingface.co](https://huggingface.co/) - lorem ipsum
+* [Huggingface.co](https://huggingface.co/) - The AI community building the future.
+* [haveibeentrained.com](https://haveibeentrained.com/) - Search 5.8 billion images used to train popular AI art models.
+* [haveibeentrained.com](https://haveibeentrained.com/) - Search 5.8 billion images used to train popular AI art models.
+
+### SD Prompt & Image search engines
+* [krea.ai](https://www.krea.ai/) - create better prompts.
+* [lexica.art](https://lexica.art/) - The Stable Diffusion search engine.
+* [libraire.ai](https://libraire.ai/) - The largest library of AI-generated images.
+
+
 
 
 ## Machine Learning
