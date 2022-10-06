@@ -10,8 +10,6 @@
 </br>
 
 > Probably nothing.
-> 
-* [LearnML](https://gitbook.gitbook.io/learn-markdown/) - Gitbook - Learn Markdown.
 
 
 - https://github.com/vinta/awesome-python
@@ -57,3 +55,7 @@
 * [TPOT](https://github.com/rhiever/tpot) - Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [auto-sklearn](https://github.com/automl/auto-sklearn) - An automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [MLBox](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
+
+
+## For me
+* [LearnML](https://gitbook.gitbook.io/learn-markdown/) - Gitbook - Learn Markdown.
