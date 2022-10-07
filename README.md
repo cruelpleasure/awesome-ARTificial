@@ -54,6 +54,9 @@
 * [libraire.ai](https://libraire.ai/) - The largest library of AI-generated images.
 
 # Midjourney
+* [willwulfken References](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI.
+* [Midjourney Official](https://midjourney.com) - A reference containing Styles and Keywords that you can use with MidJourney AI.
+** [Manual](https://midjourney.gitbook.io/docs/user-manual)
 
 # Other txt2img Tools
 
