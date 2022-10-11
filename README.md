@@ -34,7 +34,10 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 * [Deforum 0.5](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb) - Deforum Colab! [Discord](https://discord.com/invite/upmXXsrwZc)
 
 ### SD Github Repo's (Local Install + Webui's)
-* [AUTOMATIC1111 Webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Nice SD Webui with a lot functions. ❤️
+- [AUTOMATIC1111 Webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Nice SD Webui with a lot functions. ❤️
+  - [Feature-Showcase](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features), [wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki),  [custom scripts](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Custom-Scripts), [Xformers](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Xformers), [Colab-Notebook-Akaibu](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl)
+- [InvokeAI](https://github.com/invoke-ai/InvokeAI) - (lstein) A Stable Diffusion Toolkit Webui. ❤️
+  - [discord](https://discord.gg/NwVCmKwY), [Doc & Tutorials](https://invoke-ai.github.io/InvokeAI/)
 
 ### SD Artists
 * [urania.ai](https://www.urania.ai/top-sd-artists) - Top SD Artists List.
@@ -75,10 +78,11 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 # Models & Training
 
-- [Model-Database](https://upscale.wiki/wiki/Model_Database) - upscale.wiki Model Database.
-- [Dataset-Database](https://upscale.wiki/wiki/Model_Database) - upscale.wiki Dataset Database - Datasets to train your models.
+## SD Training
 
-### SD Training
+- [k-diffusion](https://github.com/crowsonkb/k-diffusion) - An implementation of Elucidating the Design Space of Diffusion-Based Generative Models (Karras et al., 2022) for PyTorch.
+- [latent-diffusion](https://github.com/CompVis/latent-diffusion) - Latent Diffusion Models
+  - [Model Zoo](https://github.com/CompVis/latent-diffusion#model-zoo)
 
 #### AUTOMATIC1111 and Dreambooth diffusers!
 - [ShivamShrirao/diffusers](https://github.com/ShivamShrirao/diffusers/tree/main/examples/dreambooth) - 10GB VRAM diffusers.
@@ -92,6 +96,10 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 ### SD Models
 - [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models.
+
+### Other Models
+- [Model-Database](https://upscale.wiki/wiki/Model_Database) - upscale.wiki Model Database.
+- [Dataset-Database](https://upscale.wiki/wiki/Model_Database) - upscale.wiki Dataset Database - Datasets to train your models.
 
 # Upscaling & Restoration
 
