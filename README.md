@@ -29,18 +29,18 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 # Stable-Diffusion
 
-### SD Colab Notebooks
+#### SD Colab Notebooks
 
 * [Deforum 0.5](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb) - Deforum Colab! [Discord](https://discord.com/invite/upmXXsrwZc)
 
-### SD Github Repo's (Local Install + Webui's)
+#### SD Github Repo's (Local Install + Webui's)
 
 - [AUTOMATIC1111 Webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Nice SD Webui with a lot functions. ❤️
   - [Feature-Showcase](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features), [wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki),  [custom scripts](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Custom-Scripts), [Xformers](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Xformers), [Colab-Notebook-Akaibu](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl)
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) - (lstein) A Stable Diffusion Toolkit Webui. ❤️
   - [discord](https://discord.gg/NwVCmKwY), [Doc & Tutorials](https://invoke-ai.github.io/InvokeAI/)
 
-### SD Artists
+#### SD Artists
 
 * [urania.ai](https://www.urania.ai/top-sd-artists) - Top SD Artists List.
 
@@ -83,9 +83,10 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 ### 3D & Co.
 
-- [Tiny CUDA Neural Networks](https://github.com/NVlabs/tiny-cuda-nn) - This is a small, self-contained framework for training and querying neural networks.
-- [stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of the text-to-3D model **Dreamfusion** , powered by the [Stable Diffusion](https://github.com/CompVis/stable-diffusion) text-to-2D model. Colab notebook for usage: [![Open In Colab](https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/drive/1MXT3yfOFvO0ooKEfiUUvTKwUkrrlCHpF?usp=sharing).
-- [instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant Neural Graphics Primitives
+- **[instant-ngp](https://github.com/NVlabs/instant-ngp)** - Instant Neural Graphics Primitives
+- **[tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn)** - Tiny CUDA Neural Networks - small, self-contained framework for training and querying neural networks.
+- **[stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion)** - A pytorch implementation of the text-to-3D model **Dreamfusion** , powered by the [Stable Diffusion](https://github.com/CompVis/stable-diffusion) text-to-2D model. Colab notebook for usage: [![Open In Colab](https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/drive/1MXT3yfOFvO0ooKEfiUUvTKwUkrrlCHpF?usp=sharing).
+- **[Meshroom](https://github.com/alicevision/Meshroom)** - Meshroom is a free, open-source 3D Reconstruction Software based on the [AliceVision](https://github.com/alicevision/AliceVision) Photogrammetric Computer Vision framework. [Meshroom wiki](https://github.com/alicevision/meshroom/wiki)
 
 ## SD Training
 
