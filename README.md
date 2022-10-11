@@ -1,9 +1,9 @@
 ![AI_Notion_Header_01](https://user-images.githubusercontent.com/88795005/194165620-4a80749c-70d2-43bf-b038-5677e3a0188f.png)
 
 <h1 align="center">
-ARTificial - Creative Tools, Links, Guides and much more to Generate AI Art. For (visual) Artists and Beginner.
+ARTificial - Creative Tools, Links, Guides and more to Generate AI Art.
 </h1>
-<div align="center"><a href="https://github.com/sindresorhus/awesome">
+<div align="center">For (visual) Artists and Beginner.<br><br><a href="https://github.com/sindresorhus/awesome">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" border="0">
 </a>
 </div>
