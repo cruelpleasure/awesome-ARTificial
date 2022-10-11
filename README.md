@@ -15,12 +15,12 @@ ARTificial - Creative Tools, Links, Guides and much more to Generate AI Art. For
 
 * [Stable-Diffusion](#stable-diffusion)
 * [Midjourney](#midjourney)
-* [Useful Tools and Apps](#tools)
+* [Useful Tools & Apps](#tools)
 * [Other txt2img Tools](#other-txt2img)
 * [Prompt Engineering](#prompt-engineering)
 * [Animation](#animation)
 * [Models & Training](#model-training)
-* [Upscaling and Restoration](#upscale-restore)
+* [Upscaling & Restoration](#upscale-restore)
 * [Machine Learning](#machine-learning)
 * [Coding](#coding)
 * [Art](#art)
@@ -40,22 +40,24 @@ ARTificial - Creative Tools, Links, Guides and much more to Generate AI Art. For
 * [urania.ai](https://www.urania.ai/top-sd-artists) - Top SD Artists List.
 
 # Midjourney
+
 - [Midjourney Official](https://midjourney.com) - A reference containing Styles and Keywords that you can use with MidJourney AI.
   - [User Manual](https://midjourney.gitbook.io/docs/user-manual)
 - [willwulfken References](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI.
 
-# Useful Tools and Apps
+# Useful Tools & Apps
+
 * [Huggingface.co](https://huggingface.co/) - The AI community building the future.
 * [Meta AI](https://ai.facebook.com/) - Open source frameworks, tools, libraries, and models for everything from research exploration to large-scale production deployment.
 * [haveibeentrained.com](https://haveibeentrained.com/) - Search 5.8 billion images used to train popular AI art models.
-* [aiartists](https://aiartists.org/) - 
+* [aiartists](https://aiartists.org/) - The world’s largest community of artists exploring Artificial Intelligence.
+
 # Other txt2img Tools
+
 - [Imagen](https://imagen.research.google/) - A text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
 - [imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) - Implementation of Imagen, Google's Text-to-Image Neural Network that beats DALL-E2, in Pytorch. It is the new SOTA for text-to-image synthesis.
 - [DALL·E 2](https://openai.com/dall-e-2/) - DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.
 - [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch.
-
-
 
 # Prompt Engineering
 
@@ -71,6 +73,7 @@ ARTificial - Creative Tools, Links, Guides and much more to Generate AI Art. For
 - [FILM](https://github.com/google-research/frame-interpolation) - FILM - Interpolation/Video.
 
 # Models & Training
+
 - [Model-Database](https://upscale.wiki/wiki/Model_Database) - upscale.wiki Model Database.
 - [Dataset-Database](https://upscale.wiki/wiki/Model_Database) - upscale.wiki Dataset Database - Datasets to train your models.
 
@@ -91,7 +94,7 @@ ARTificial - Creative Tools, Links, Guides and much more to Generate AI Art. For
 - [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models.
 - [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models.
 
-# Upscaling and Restoration
+# Upscaling & Restoration
 - [denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) - Implementation of Denoising Diffusion Probabilistic Model in Pytorch. It is a new approach to generative modeling that may have the potential to rival GANs.
 - [GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing a Practical Algorithm for Real-world Face Restoration.
 It leverages rich and diverse priors encapsulated in a pretrained face GAN (e.g., StyleGAN2) for blind face restoration.
