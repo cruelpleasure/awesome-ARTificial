@@ -30,6 +30,10 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 # Stable-Diffusion
 
+### ❤️
+- [pharmapsychotic-tools](https://pharmapsychotic.com/tools.html) - Tools and Resources for AI Art. ❤️
+- [pharmapsychotic-training](https://pharmapsychotic.com/training.html) - Training custom Ai generative models.
+
 ### SD Colab Notebooks
 * [Deforum 0.5](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb) - Deforum Colab! [Discord](https://discord.com/invite/upmXXsrwZc)
 
