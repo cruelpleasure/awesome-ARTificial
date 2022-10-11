@@ -30,10 +30,6 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 # Stable-Diffusion
 
-### ❤️
-- [pharmapsychotic-tools](https://pharmapsychotic.com/tools.html) - Tools and Resources for AI Art. ❤️
-- [pharmapsychotic-training](https://pharmapsychotic.com/training.html) - Training custom Ai generative models.
-
 ### SD Colab Notebooks
 * [Deforum 0.5](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb) - Deforum Colab! [Discord](https://discord.com/invite/upmXXsrwZc)
 
@@ -51,11 +47,12 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 # Useful Tools & Apps
 
-* [Huggingface.co](https://huggingface.co/) - The AI community building the future.
-* [haveibeentrained.com](https://haveibeentrained.com/) - Search 5.8 billion images used to train popular AI art models.
-* [aiartists](https://aiartists.org/) - The world’s largest community of artists exploring Artificial Intelligence.
-* [Meta AI](https://ai.facebook.com/) - Open source frameworks, tools, libraries, and models for everything from research exploration to large-scale production deployment.
-* 
+- [pharmapsychotic-tools](https://pharmapsychotic.com/tools.html) - Tools and Resources for AI Art. ❤️
+- [Huggingface.co](https://huggingface.co/) - The AI community building the future.
+- [haveibeentrained.com](https://haveibeentrained.com/) - Search 5.8 billion images used to train popular AI art models.
+- [aiartists](https://aiartists.org/) - The world’s largest community of artists exploring Artificial Intelligence.
+- [Meta AI](https://ai.facebook.com/) - Open source frameworks, tools, libraries, and models for everything from research exploration to large-scale production deployment.
+
 # Other txt2img Tools
 
 - [Imagen](https://imagen.research.google/) - A text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
@@ -87,7 +84,7 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 - [ShivamShrirao/diffusers](https://github.com/ShivamShrirao/diffusers/tree/main/examples/dreambooth) - 10GB VRAM diffusers.
   - [video](https://www.youtube.com/watch?v=w6PTviOCYQY&list=PLjC8P1vEncQDVOC1GgkT3chdyTSs0f9ZE&index=5)
   - [StableDiffusion-WSL-Pastebin](https://pastebin.com/uE1WcSxD)
-  - 
+
 #### Diffusers to ckpt converters:
 - [convert_diffusers_to_sd.py](https://gist.github.com/jachiam/8a5c0b607e38fcc585168b90c686eb05) - Script for converting a HF Diffusers saved pipeline to a Stable Diffusion checkpoint.
 - [convert_diffusers_to_sd](https://github.com/ratwithacompiler/diffusers_stablediff_conversion/blob/main/convert_diffusers_to_sd.py) - converts from huggingface diffusers StableDiffusionPipeline models to original stablediffusion ckpt files.
@@ -95,10 +92,9 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 ### SD Models
 - [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models.
-- [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models.
-- [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models.
 
 # Upscaling & Restoration
+
 - [denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) - Implementation of Denoising Diffusion Probabilistic Model in Pytorch. It is a new approach to generative modeling that may have the potential to rival GANs.
 - [GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing a Practical Algorithm for Real-world Face Restoration.
 It leverages rich and diverse priors encapsulated in a pretrained face GAN (e.g., StyleGAN2) for blind face restoration.
@@ -122,6 +118,7 @@ It leverages rich and diverse priors encapsulated in a pretrained face GAN (e.g.
 * <https://github.com/ChristosChristofidis/awesome-deep-learning>
 * <https://github.com/josephmisiti/awesome-machine-learning>
 * <https://github.com/bharathgs/Awesome-pytorch-list>
+* 
 ### Tools
 * <https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md>
 * <https://github.com/sindresorhus/awesome/blob/main/create-list.md>
