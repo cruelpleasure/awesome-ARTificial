@@ -50,11 +50,6 @@ Diffusers to ckpt converters:
 ### SD Models
 * [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models.
 
-### SD Prompt & Image search engines
-* [krea.ai](https://www.krea.ai/) - create better prompts.
-* [lexica.art](https://lexica.art/) - The Stable Diffusion search engine.
-* [libraire.ai](https://libraire.ai/) - The largest library of AI-generated images.
-
 # Midjourney
 - [Midjourney Official](https://midjourney.com) - A reference containing Styles and Keywords that you can use with MidJourney AI.
   - [User Manual](https://midjourney.gitbook.io/docs/user-manual)
@@ -67,6 +62,11 @@ Diffusers to ckpt converters:
 # Other txt2img Tools
 
 # Prompt Engineering
+
+### Prompt & Image search engines
+* [krea.ai](https://www.krea.ai/) - create better prompts.
+* [lexica.art](https://lexica.art/) - The Stable Diffusion search engine.
+* [libraire.ai](https://libraire.ai/) - The largest library of AI-generated images.
 
 # Art
 
