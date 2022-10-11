@@ -19,11 +19,13 @@
 * [Other txt2img Tools](#other-txt2img)
 * [Prompt Engineering](#prompt-engineering)
 * [Animation](#animation)
-* [Art](#art)
 * [Models & Training](#model-training)
 * [Upscaling and Restoration](#upscale-restore)
 * [Machine Learning](#machine-learning)
 * [Coding](#coding)
+* [Art](#art)
+* [Awesome](#awesome)
+
 
 # Stable-Diffusion
 
@@ -61,8 +63,6 @@
 - [make-a-video](https://github.com/lucidrains/make-a-video-pytorch) - Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch.
 - [FILM](https://github.com/google-research/frame-interpolation) - FILM - Interpolation/Video.
 
-# Art
-
 # Models & Training
 
 ### SD Training
@@ -90,22 +90,26 @@ It leverages rich and diverse priors encapsulated in a pretrained face GAN (e.g.
 
 # Coding
 
-## Awesome-Lists
+# Art
+
+# Awesome
+
+### Lists
 * <https://github.com/vinta/awesome-python>
 * <https://github.com/krzjoa/awesome-python-data-science>
 * <https://github.com/ChristosChristofidis/awesome-deep-learning>
 * <https://github.com/josephmisiti/awesome-machine-learning>
 * <https://github.com/bharathgs/Awesome-pytorch-list>
-
-## For ME / The List Tools
-
-### Markdown
-* [LearnML](https://gitbook.gitbook.io/learn-markdown/) - Gitbook - Learn Markdown.
-* [VS Code ML](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents) - VS Code ML Plugin. [Doc](https://code.visualstudio.com/docs/languages/markdown)
-* [github ML](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Writing and formatting on github.
-* [emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) - emoji's on github.
-
-### Awesome-Tools
+### Tools
 * <https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md>
 * <https://github.com/sindresorhus/awesome/blob/main/create-list.md>
 * <https://github.com/sindresorhus/awesome-lint>
+
+### Markdown
+- [rentry](https://rentry.org/) - Markdown Pastebin.
+- [LearnML](https://gitbook.gitbook.io/learn-markdown/) - Gitbook - Learn Markdown.
+- [VS Code ML](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents) - VS Code ML Plugin. [Doc](https://code.visualstudio.com/docs/languages/markdown)
+- [github ML](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Writing and formatting on github.
+- [emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) - emoji's on github.
+
+
