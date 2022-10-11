@@ -21,6 +21,7 @@
 * [Animation](#animation)
 * [Art](#art)
 * [Models & Training](#model-training)
+* [Upscaling and Restoration](#upscale-restore)
 * [Machine Learning](#machine-learning)
 * [Coding](#coding)
 
@@ -45,6 +46,7 @@
 * [haveibeentrained.com](https://haveibeentrained.com/) - Search 5.8 billion images used to train popular AI art models.
 
 # Other txt2img Tools
+- [imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) - Implementation of Imagen, Google's Text-to-Image Neural Network that beats DALL-E2, in Pytorch. It is the new SOTA for text-to-image synthesis.
 
 # Prompt Engineering
 
@@ -77,6 +79,12 @@
 - [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models.
 - [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models.
 - [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models.
+
+# Upscaling and Restoration
+- [denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) - Implementation of Denoising Diffusion Probabilistic Model in Pytorch. It is a new approach to generative modeling that may have the potential to rival GANs.
+- [GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing a Practical Algorithm for Real-world Face Restoration.
+It leverages rich and diverse priors encapsulated in a pretrained face GAN (e.g., StyleGAN2) for blind face restoration.
+- [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN/blob/master/docs/anime_video_model.md) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 
 # Machine Learning
 
