@@ -1,7 +1,7 @@
 ![AI_Notion_Header_01](https://user-images.githubusercontent.com/88795005/194165620-4a80749c-70d2-43bf-b038-5677e3a0188f.png)
 
 <h1 align="center">
-ARTificial - Creative Tools, Links, Guides and more to Generate AI Art.
+ARTificial - Creative tools, links, guides and more to Generate AI Art.
 </h1>
 <div align="center">For (visual) Artists and Beginner.<br><br><a href="https://github.com/sindresorhus/awesome">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" border="0">
@@ -34,7 +34,7 @@ ARTificial - Creative Tools, Links, Guides and more to Generate AI Art.
 * [Deforum 0.5](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb) - Deforum Colab! [Discord](https://discord.com/invite/upmXXsrwZc)
 
 ### SD Github Repo's (Local Install + Webui's)
-* [AUTOMATIC1111 Webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Nice SD Webui with a lot functions.
+* [AUTOMATIC1111 Webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Nice SD Webui with a lot functions. ❤️
 
 ### SD Artists
 * [urania.ai](https://www.urania.ai/top-sd-artists) - Top SD Artists List.
@@ -48,10 +48,10 @@ ARTificial - Creative Tools, Links, Guides and more to Generate AI Art.
 # Useful Tools & Apps
 
 * [Huggingface.co](https://huggingface.co/) - The AI community building the future.
-* [Meta AI](https://ai.facebook.com/) - Open source frameworks, tools, libraries, and models for everything from research exploration to large-scale production deployment.
 * [haveibeentrained.com](https://haveibeentrained.com/) - Search 5.8 billion images used to train popular AI art models.
 * [aiartists](https://aiartists.org/) - The world’s largest community of artists exploring Artificial Intelligence.
-
+* [Meta AI](https://ai.facebook.com/) - Open source frameworks, tools, libraries, and models for everything from research exploration to large-scale production deployment.
+* 
 # Other txt2img Tools
 
 - [Imagen](https://imagen.research.google/) - A text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
@@ -105,6 +105,10 @@ It leverages rich and diverse priors encapsulated in a pretrained face GAN (e.g.
 # Coding
 
 # Art
+
+### References & Communities
+- [artstation](https://www.artstation.com/) - My favorite place for inspiration. ❤️
+- [behance](https://www.behance.net/) - Showcase your work. Find new inspiration, hand-picked just for you.
 
 # Awesome
 
