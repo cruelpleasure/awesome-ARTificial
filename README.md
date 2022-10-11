@@ -18,6 +18,7 @@
 * [Useful Tools and Apps](#tools)
 * [Other txt2img Tools](#other-txt2img)
 * [Prompt Engineering](#prompt-engineering)
+* [Animation](#animation)
 * [Art](#art)
 * [Models & Training](#model-training)
 * [Machine Learning](#machine-learning)
@@ -30,10 +31,6 @@
 
 ### SD Github Repo's (Local Install + Webui's)
 * [AUTOMATIC1111 Webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Nice SD Webui with a lot functions.
-* [FILM](https://github.com/google-research/frame-interpolation) - FILM - Interpolation/Video.
-
-### SD Animation
-- [Thin-Plate Spline Motion Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - [CVPR2022] Thin-Plate Spline Motion Model for Image Animation.
 
 ### SD Artists
 * [urania.ai](https://www.urania.ai/top-sd-artists) - Top SD Artists List.
@@ -56,18 +53,30 @@
 * [lexica.art](https://lexica.art/) - The Stable Diffusion search engine.
 * [libraire.ai](https://libraire.ai/) - The largest library of AI-generated images.
 
+# Animation
+
+- [Thin-Plate Spline Motion Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - [CVPR2022] Thin-Plate Spline Motion Model for Image Animation.
+- [make-a-video](https://github.com/lucidrains/make-a-video-pytorch) - Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch.
+- [FILM](https://github.com/google-research/frame-interpolation) - FILM - Interpolation/Video.
+
 # Art
 
 # Models & Training
 
 ### SD Training
-Diffusers to ckpt converters:
+#### AUTOMATIC1111 and Dreambooth diffusers!
+- [ShivamShrirao/diffusers](https://github.com/ShivamShrirao/diffusers/tree/main/examples/dreambooth) - 10GB VRAM diffusers.
+  - [video](https://www.youtube.com/watch?v=w6PTviOCYQY&list=PLjC8P1vEncQDVOC1GgkT3chdyTSs0f9ZE&index=5)
+  - [StableDiffusion-WSL-Pastebin](https://pastebin.com/uE1WcSxD)
+#### Diffusers to ckpt converters:
 - [convert_diffusers_to_sd.py](https://gist.github.com/jachiam/8a5c0b607e38fcc585168b90c686eb05) - Script for converting a HF Diffusers saved pipeline to a Stable Diffusion checkpoint.
 - [convert_diffusers_to_sd](https://github.com/ratwithacompiler/diffusers_stablediff_conversion/blob/main/convert_diffusers_to_sd.py) - converts from huggingface diffusers StableDiffusionPipeline models to original stablediffusion ckpt files.
 - [Video guide](https://youtu.be/_e5ymV4zY3w) - Convert Diffusers Dreambooth Models for the AUTOMATIC1111 WebUI.
 
 ### SD Models
-* [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models.
+- [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models.
+- [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models.
+- [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models.
 
 # Machine Learning
 
