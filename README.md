@@ -27,19 +27,21 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 * [Awesome](#awesome)
 * [Markdown](#markdown)
 
-
 # Stable-Diffusion
 
 ### SD Colab Notebooks
+
 * [Deforum 0.5](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb) - Deforum Colab! [Discord](https://discord.com/invite/upmXXsrwZc)
 
 ### SD Github Repo's (Local Install + Webui's)
+
 - [AUTOMATIC1111 Webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Nice SD Webui with a lot functions. ❤️
   - [Feature-Showcase](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features), [wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki),  [custom scripts](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Custom-Scripts), [Xformers](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Xformers), [Colab-Notebook-Akaibu](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl)
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) - (lstein) A Stable Diffusion Toolkit Webui. ❤️
   - [discord](https://discord.gg/NwVCmKwY), [Doc & Tutorials](https://invoke-ai.github.io/InvokeAI/)
 
 ### SD Artists
+
 * [urania.ai](https://www.urania.ai/top-sd-artists) - Top SD Artists List.
 
 # Midjourney
@@ -66,6 +68,7 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 # Prompt Engineering
 
 ### Prompt & Image search engines
+
 * [krea.ai](https://www.krea.ai/) - create better prompts.
 * [lexica.art](https://lexica.art/) - The Stable Diffusion search engine.
 * [libraire.ai](https://libraire.ai/) - The largest library of AI-generated images.
@@ -78,6 +81,12 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 # Models & Training
 
+### 3D & Co.
+
+- [Tiny CUDA Neural Networks](https://github.com/NVlabs/tiny-cuda-nn) - This is a small, self-contained framework for training and querying neural networks.
+- [stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of the text-to-3D model **Dreamfusion** , powered by the [Stable Diffusion](https://github.com/CompVis/stable-diffusion) text-to-2D model. Colab notebook for usage: [![Open In Colab](https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/drive/1MXT3yfOFvO0ooKEfiUUvTKwUkrrlCHpF?usp=sharing).
+- [instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant Neural Graphics Primitives
+
 ## SD Training
 
 - [k-diffusion](https://github.com/crowsonkb/k-diffusion) - An implementation of Elucidating the Design Space of Diffusion-Based Generative Models (Karras et al., 2022) for PyTorch.
@@ -85,19 +94,23 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
   - [Model Zoo](https://github.com/CompVis/latent-diffusion#model-zoo)
 
 #### AUTOMATIC1111 and Dreambooth diffusers!
+
 - [ShivamShrirao/diffusers](https://github.com/ShivamShrirao/diffusers/tree/main/examples/dreambooth) - 10GB VRAM diffusers.
   - [video](https://www.youtube.com/watch?v=w6PTviOCYQY&list=PLjC8P1vEncQDVOC1GgkT3chdyTSs0f9ZE&index=5)
   - [StableDiffusion-WSL-Pastebin](https://pastebin.com/uE1WcSxD)
 
 #### Diffusers to ckpt converters:
+
 - [convert_diffusers_to_sd.py](https://gist.github.com/jachiam/8a5c0b607e38fcc585168b90c686eb05) - Script for converting a HF Diffusers saved pipeline to a Stable Diffusion checkpoint.
 - [convert_diffusers_to_sd](https://github.com/ratwithacompiler/diffusers_stablediff_conversion/blob/main/convert_diffusers_to_sd.py) - converts from huggingface diffusers StableDiffusionPipeline models to original stablediffusion ckpt files.
 - [Video guide](https://youtu.be/_e5ymV4zY3w) - Convert Diffusers Dreambooth Models for the AUTOMATIC1111 WebUI.
 
 ### SD Models
+
 - [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models.
 
 ### Other Models
+
 - [Model-Database](https://upscale.wiki/wiki/Model_Database) - upscale.wiki Model Database.
 - [Dataset-Database](https://upscale.wiki/wiki/Model_Database) - upscale.wiki Dataset Database - Datasets to train your models.
 
@@ -105,7 +118,7 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 - [denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) - Implementation of Denoising Diffusion Probabilistic Model in Pytorch. It is a new approach to generative modeling that may have the potential to rival GANs.
 - [GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing a Practical Algorithm for Real-world Face Restoration.
-It leverages rich and diverse priors encapsulated in a pretrained face GAN (e.g., StyleGAN2) for blind face restoration.
+  It leverages rich and diverse priors encapsulated in a pretrained face GAN (e.g., StyleGAN2) for blind face restoration.
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN/blob/master/docs/anime_video_model.md) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 
 # Machine Learning
@@ -115,28 +128,31 @@ It leverages rich and diverse priors encapsulated in a pretrained face GAN (e.g.
 # Art
 
 ### References & Communities
+
 - [artstation](https://www.artstation.com/) - My favorite place for inspiration. ❤️
 - [behance](https://www.behance.net/) - Showcase your work. Find new inspiration, hand-picked just for you.
 
 # Awesome
 
 ### Lists
-* <https://github.com/vinta/awesome-python>
-* <https://github.com/krzjoa/awesome-python-data-science>
-* <https://github.com/ChristosChristofidis/awesome-deep-learning>
-* <https://github.com/josephmisiti/awesome-machine-learning>
-* <https://github.com/bharathgs/Awesome-pytorch-list>
-* 
+
+* [awesome-python](https://github.com/vinta/awesome-python)
+* [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science)
+* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
+* [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)
+
 ### Tools
-* <https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md>
-* <https://github.com/sindresorhus/awesome/blob/main/create-list.md>
-* <https://github.com/sindresorhus/awesome-lint>
+
+* [pull_request_template.md](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md)
+* [create-list.md](https://github.com/sindresorhus/awesome/blob/main/create-list.md)
+* [awesome-lint](https://github.com/sindresorhus/awesome-lint)
 
 # Markdown
+
 - [rentry](https://rentry.org/) - Markdown Pastebin.
 - [LearnML](https://gitbook.gitbook.io/learn-markdown/) - Gitbook - Learn Markdown.
 - [VS Code ML](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents) - VS Code ML Plugin. [Doc](https://code.visualstudio.com/docs/languages/markdown)
 - [github ML](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Writing and formatting on github.
 - [emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) - emoji's on github.
-
-
