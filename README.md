@@ -25,6 +25,7 @@
 * [Coding](#coding)
 * [Art](#art)
 * [Awesome](#awesome)
+* [Markdown](#markdown)
 
 
 # Stable-Diffusion
@@ -105,7 +106,7 @@ It leverages rich and diverse priors encapsulated in a pretrained face GAN (e.g.
 * <https://github.com/sindresorhus/awesome/blob/main/create-list.md>
 * <https://github.com/sindresorhus/awesome-lint>
 
-### Markdown
+# Markdown
 - [rentry](https://rentry.org/) - Markdown Pastebin.
 - [LearnML](https://gitbook.gitbook.io/learn-markdown/) - Gitbook - Learn Markdown.
 - [VS Code ML](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents) - VS Code ML Plugin. [Doc](https://code.visualstudio.com/docs/languages/markdown)
