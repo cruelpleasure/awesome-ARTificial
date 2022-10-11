@@ -15,6 +15,7 @@
 
 * [Stable-Diffusion](#stable-diffusion)
 * [Midjourney](#midjourney)
+* [Useful Tools and Apps](#tools)
 * [Other txt2img Tools](#other-txt2img)
 * [Prompt Engineering](#prompt-engineering)
 * [Art](#art)
@@ -49,10 +50,6 @@ Diffusers to ckpt converters:
 ### SD Models
 * [Stable Diffusion Models](https://rentry.org/sdmodels) - List with all official Stable-Diffusion Models.
 
-### Useful Tools and Apps
-* [Huggingface.co](https://huggingface.co/) - The AI community building the future.
-* [haveibeentrained.com](https://haveibeentrained.com/) - Search 5.8 billion images used to train popular AI art models.
-
 ### SD Prompt & Image search engines
 * [krea.ai](https://www.krea.ai/) - create better prompts.
 * [lexica.art](https://lexica.art/) - The Stable Diffusion search engine.
@@ -62,6 +59,10 @@ Diffusers to ckpt converters:
 - [Midjourney Official](https://midjourney.com) - A reference containing Styles and Keywords that you can use with MidJourney AI.
   - [User Manual](https://midjourney.gitbook.io/docs/user-manual)
 - [willwulfken References](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI.
+
+# Useful Tools and Apps
+* [Huggingface.co](https://huggingface.co/) - The AI community building the future.
+* [haveibeentrained.com](https://haveibeentrained.com/) - Search 5.8 billion images used to train popular AI art models.
 
 # Other txt2img Tools
 
