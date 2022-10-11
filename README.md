@@ -1,7 +1,7 @@
 ![AI_Notion_Header_01](https://user-images.githubusercontent.com/88795005/194165620-4a80749c-70d2-43bf-b038-5677e3a0188f.png)
 
 <h1 align="center">
- ARTificial Tools, Links, Apps, Notebooks and more - for visual Artists and Beginner.
+ARTificial - Creative Tools, Links, Guides and much more to Generate AI Art. For (visual) Artists and Beginner.
 </h1>
 <div align="center"><a href="https://github.com/sindresorhus/awesome">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" border="0">
@@ -46,10 +46,16 @@
 
 # Useful Tools and Apps
 * [Huggingface.co](https://huggingface.co/) - The AI community building the future.
+* [Meta AI](https://ai.facebook.com/) - Open source frameworks, tools, libraries, and models for everything from research exploration to large-scale production deployment.
 * [haveibeentrained.com](https://haveibeentrained.com/) - Search 5.8 billion images used to train popular AI art models.
-
+* [aiartists](https://aiartists.org/) - 
 # Other txt2img Tools
+- [Imagen](https://imagen.research.google/) - A text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
 - [imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) - Implementation of Imagen, Google's Text-to-Image Neural Network that beats DALL-E2, in Pytorch. It is the new SOTA for text-to-image synthesis.
+- [DALL·E 2](https://openai.com/dall-e-2/) - DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.
+- [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch.
+
+
 
 # Prompt Engineering
 
@@ -65,12 +71,16 @@
 - [FILM](https://github.com/google-research/frame-interpolation) - FILM - Interpolation/Video.
 
 # Models & Training
+- [Model-Database](https://upscale.wiki/wiki/Model_Database) - upscale.wiki Model Database.
+- [Dataset-Database](https://upscale.wiki/wiki/Model_Database) - upscale.wiki Dataset Database - Datasets to train your models.
 
 ### SD Training
+
 #### AUTOMATIC1111 and Dreambooth diffusers!
 - [ShivamShrirao/diffusers](https://github.com/ShivamShrirao/diffusers/tree/main/examples/dreambooth) - 10GB VRAM diffusers.
   - [video](https://www.youtube.com/watch?v=w6PTviOCYQY&list=PLjC8P1vEncQDVOC1GgkT3chdyTSs0f9ZE&index=5)
   - [StableDiffusion-WSL-Pastebin](https://pastebin.com/uE1WcSxD)
+  - 
 #### Diffusers to ckpt converters:
 - [convert_diffusers_to_sd.py](https://gist.github.com/jachiam/8a5c0b607e38fcc585168b90c686eb05) - Script for converting a HF Diffusers saved pipeline to a Stable Diffusion checkpoint.
 - [convert_diffusers_to_sd](https://github.com/ratwithacompiler/diffusers_stablediff_conversion/blob/main/convert_diffusers_to_sd.py) - converts from huggingface diffusers StableDiffusionPipeline models to original stablediffusion ckpt files.
