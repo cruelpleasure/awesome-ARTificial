@@ -13,6 +13,7 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 ### Contents
 
+* [Resources](#resources)
 * [Stable-Diffusion](#stable-diffusion)
 * [Midjourney](#midjourney)
 * [Useful Tools & Apps](#tools)
@@ -28,7 +29,14 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 * [Awesome](#awesome)
 * [Markdown](#markdown)
 
+# Resources
+
+- [A comparison between 8 samplers for 5 different topics](https://www.reddit.com/r/StableDiffusion/comments/xmwcrx/a_comparison_between_8_samplers_for_5_different/)
+
 # Stable-Diffusion
+
+- [r/stable-diffusion](https://www.reddit.com/r/StableDiffusion/) - SD reddit
+- 
 
 #### SD Colab Notebooks
 
@@ -177,6 +185,7 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 # Markdown
 
+- [pandoc](https://github.com/jgm/pandoc) - Universal markup converter 
 - [rentry](https://rentry.org/) - Markdown Pastebin.
 - [LearnML](https://gitbook.gitbook.io/learn-markdown/) - Gitbook - Learn Markdown.
 - [VS Code ML](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents) - VS Code ML Plugin. [Doc](https://code.visualstudio.com/docs/languages/markdown)
