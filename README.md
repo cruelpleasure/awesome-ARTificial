@@ -86,6 +86,7 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 # Animation
 
+- [7 Best Text-to-Video AI Generators: Powerful and Free](https://mpost.io/7-best-text-to-video-ai-generators-powerful-and-free/)
 - [Thin-Plate Spline Motion Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - [CVPR2022] Thin-Plate Spline Motion Model for Image Animation.
 - [make-a-video](https://github.com/lucidrains/make-a-video-pytorch) - Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch.
 - [FILM](https://github.com/google-research/frame-interpolation) - FILM - Interpolation/Video.
