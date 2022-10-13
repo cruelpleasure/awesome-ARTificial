@@ -76,6 +76,7 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 # Prompt Engineering
 
+- [promptbase](https://promptbase.com/) - DALL·E, GPT-3, Midjourney, Stable Diffusion Prompt Marketplace.
 - [Best 100+ Stable Diffusion Prompts](https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/)
 
 #### Prompt & Image search engines
