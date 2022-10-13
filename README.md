@@ -9,7 +9,7 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 </div>
 </br>
 
-> Probably nothing.
+> WIP.
 
 ### Contents
 
