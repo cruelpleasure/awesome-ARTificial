@@ -94,6 +94,8 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 # Models & Training
 
+- [birme img crop+resize 512](https://www.birme.net/?target_width=512&target_height=512)
+
 #### Transformers
 
 - **[transformers](https://github.com/huggingface/transformers)** - hugginface transformers.
