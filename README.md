@@ -76,6 +76,8 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 # Prompt Engineering
 
+- [Best 100+ Stable Diffusion Prompts](https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/)
+
 #### Prompt & Image search engines
 
 * [krea.ai](https://www.krea.ai/) - create better prompts.
