@@ -181,7 +181,7 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 * [awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
 * [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)
 * **[awesome_3DReconstruction_list](https://github.com/openMVG/awesome_3DReconstruction_list)**
-*
+* [awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
 
 #### awesome-Tools
 
