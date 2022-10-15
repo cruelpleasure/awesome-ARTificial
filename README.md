@@ -51,7 +51,10 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 #### SD Artists
 
-* [urania.ai](https://www.urania.ai/top-sd-artists) - Top SD Artists List.
+- [urania.ai](https://www.urania.ai/top-sd-artists) - Top SD Artists List.
+- [list of artists for SD v1.4](https://rentry.org/artists_sd-v1-4)
+- [SD Artists Collection](https://sgreens.notion.site/sgreens/4ca6f4e229e24da6845b6d49e6b08ae7?v=fdf861d1c65d456e98904fe3f3670bd3) - SGreen#2222 Notion-List.
+- [Stable Diffusion Artist Style Studies](https://proximacentaurib.notion.site/e28a4f8d97724f14a784a538b8589e7d?v=42948fd8f45c4d47a0edfc4b78937474) - Notion-List from Parrot Zone.
 
 # Midjourney
 
@@ -96,6 +99,10 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 # Models & Training
 
 - [birme img crop+resize 512](https://www.birme.net/?target_width=512&target_height=512)
+
+#### Hypernetworks
+
+- [Hypernetwork training for dummies](https://rentry.org/hypernetwork4dumdums)
 
 #### Transformers
 
