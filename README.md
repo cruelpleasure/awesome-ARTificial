@@ -31,12 +31,13 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 # Resources
 
+- [pharmapsychotic-tools](https://pharmapsychotic.com/tools.html) - Tools and Resources for AI Art. ❤️
+- [parrot zone](https://proximacentaurib.notion.site/proximacentaurib/parrot-zone-74a5c04d4feb4f12b52a41fc8750b205)
 - [A comparison between 8 samplers for 5 different topics](https://www.reddit.com/r/StableDiffusion/comments/xmwcrx/a_comparison_between_8_samplers_for_5_different/)
 
 # Stable-Diffusion
 
 - [r/stable-diffusion](https://www.reddit.com/r/StableDiffusion/) - SD reddit
-- 
 
 #### SD Colab Notebooks
 
@@ -64,11 +65,15 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 # Useful Tools & Apps
 
-- [pharmapsychotic-tools](https://pharmapsychotic.com/tools.html) - Tools and Resources for AI Art. ❤️
 - [Huggingface.co](https://huggingface.co/) - The AI community building the future.
 - [haveibeentrained.com](https://haveibeentrained.com/) - Search 5.8 billion images used to train popular AI art models.
 - [aiartists](https://aiartists.org/) - The world’s largest community of artists exploring Artificial Intelligence.
 - [Meta AI](https://ai.facebook.com/) - Open source frameworks, tools, libraries, and models for everything.
+
+#### Cloud computing
+
+- [paperspace](https://www.paperspace.com/)
+  -[guide A1111@paperspace](https://proximacentaurib.notion.site/A-guide-to-getting-started-with-the-paperspace-port-of-AUTOMATIC1111-s-web-UI-for-ppl-who-get-nervou-b83c2213f17e452e8b0e37ba64fe9758)
 
 # Other txt2img Tools
 
