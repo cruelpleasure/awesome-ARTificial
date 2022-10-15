@@ -35,6 +35,14 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 - [parrot zone](https://proximacentaurib.notion.site/proximacentaurib/parrot-zone-74a5c04d4feb4f12b52a41fc8750b205)
 - [A comparison between 8 samplers for 5 different topics](https://www.reddit.com/r/StableDiffusion/comments/xmwcrx/a_comparison_between_8_samplers_for_5_different/)
 
+#### Videotutorials & Youtube-Channels
+
+- [Nerdy Rodent](https://www.youtube.com/c/NerdyRodent/videos)
+- [Aitrepreneur](https://www.youtube.com/c/Aitrepreneur/videos)
+- [Olivio Sarikas](https://www.youtube.com/c/OlivioSarikas/videos)
+- [enigmatic_e](https://www.youtube.com/channel/UClSBolYONOzQjOzE4cMHfpw/videos)
+- [Sebastian Kamph](https://www.youtube.com/channel/UCvKqTb-65iAmXK59sFNKINQ/videos)
+
 # Stable-Diffusion
 
 - [r/stable-diffusion](https://www.reddit.com/r/StableDiffusion/) - SD reddit
