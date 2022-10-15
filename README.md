@@ -114,6 +114,7 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 #### Hypernetworks
 
+- **[Hypernetwork Style Training, a tiny guide](https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/2670)**
 - [Hypernetwork training for dummies](https://rentry.org/hypernetwork4dumdums)
 
 #### Transformers
