@@ -4,12 +4,11 @@
 ARTificial - Creative tools, links, guides and more to Generate AI Art.
 </h1>
 <div align="center">For (visual) Artists and Beginner.<br><br><a href="https://github.com/sindresorhus/awesome">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" border="0">
 </a>
 </div>
 </br>
 
-> WIP.
+> WIP
 
 ### Contents
 
@@ -35,7 +34,7 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 - [parrot zone](https://proximacentaurib.notion.site/proximacentaurib/parrot-zone-74a5c04d4feb4f12b52a41fc8750b205)
 - [A comparison between 8 samplers for 5 different topics](https://www.reddit.com/r/StableDiffusion/comments/xmwcrx/a_comparison_between_8_samplers_for_5_different/)
 
-#### Videotutorials & Youtube-Channels
+#### Youtube-Channels
 
 - [Nerdy Rodent](https://www.youtube.com/c/NerdyRodent/videos)
 - [Aitrepreneur](https://www.youtube.com/c/Aitrepreneur/videos)
