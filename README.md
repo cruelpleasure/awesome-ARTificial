@@ -32,8 +32,9 @@ ARTificial - Creative tools, links, guides and more to Generate AI Art.
 
 - [pharmapsychotic-tools](https://pharmapsychotic.com/tools.html) - Tools and Resources for AI Art. ❤️
 - [parrot zone](https://proximacentaurib.notion.site/proximacentaurib/parrot-zone-74a5c04d4feb4f12b52a41fc8750b205)
-- [A comparison between 8 samplers for 5 different topics](https://www.reddit.com/r/StableDiffusion/comments/xmwcrx/a_comparison_between_8_samplers_for_5_different/)
+- [A comparison between 8 samplers](https://www.reddit.com/r/StableDiffusion/comments/xmwcrx/a_comparison_between_8_samplers_for_5_different/)
 - [prompt-eng](https://github.com/sw-yx/prompt-eng) - notes for prompt engineering. ❤️
+- [sdupdates](https://github.com/questianon/sdupdates) - News & SD Updates.
 
 
 #### Youtube-Channels
